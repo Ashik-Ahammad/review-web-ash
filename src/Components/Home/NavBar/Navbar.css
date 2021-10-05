@@ -1,0 +1,20 @@
+.nav-bar{
+    background-color: rgba(204, 184, 224, 0.589);
+    color: whitesmoke;
+    padding: 25px;
+    
+}
+.nav-style{
+    font-size: larger;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+
+.nav-style:hover{
+    background-color: rgb(18, 72, 116);
+    color: aliceblue;
+    border: 1px solid black;
+    border-radius: 3px;
+    
+}
