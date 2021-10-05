@@ -3,24 +3,28 @@
         "id": 101,
         "name": "LISTENING TEST",
         "description": "In this section you will need to answer 40 questions in response to four recordings. You will listen to four recordings which are a mix of monologues and conversations from a range of native speakers and you will only hear each recording once.",
-        "img": "https://www.mwt.co.in/blog/wp-content/uploads/IELTS-listening_-Study-Guide-Information-Tips.png"
+        "img": "https://www.mwt.co.in/blog/wp-content/uploads/IELTS-listening_-Study-Guide-Information-Tips.png",
+        "price": "35 $"
     },
     {
         "id": 102,
         "name": "READING TEST",
         "description": "The IELTS Reading test consists of 40 questions, designed to test a wide range of reading skills. These include reading for gist, reading for main ideas, reading for detail, skimming, understanding logical argument and recognising writers opinions, attitudes and purpose",
-        "img": "https://mcielts.com/wp-content/uploads/2019/08/IELTS-Reading-Introduction-Assessment.png"
+        "img": "https://mcielts.com/wp-content/uploads/2019/08/IELTS-Reading-Introduction-Assessment.png",
+        "price": "49 $"
     },
     {
         "id": 103,
         "name": "WRITING TEST",
         "description": "The writing component of the IELTS exam is designed to assess how you “write a response appropriately, organise ideas and use a range of vocabulary and grammar accurately.” It comprises two tasks and candidates have 60 minutes to answer them.",
-        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/198452538/original/b8d4916f2f7e021bd6e53dd49642c613979fb888/give-feedback-on-your-ielts-writing-task-24c5.jpg"
+        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/198452538/original/b8d4916f2f7e021bd6e53dd49642c613979fb888/give-feedback-on-your-ielts-writing-task-24c5.jpg",
+        "price": "69 $"
     },
     {
         "id": 104,
         "name": "SPEAKING TEST",
         "description": "IELTS Speaking is a face-to-face, informal discussion with an IELTS examiner, and is the same for both Academic and General Training. The test is divided into 3 parts and is designed to test your pronunciation, fluency, grammar and vocabulary.",
-        "img": "https://keithspeakingacademy.com/wp-content/uploads/elementor/thumbs/Prepare-IELTS-Speaking-oybd9ltmm48po38iws3cf12zlfqxp7w0gps31200i0.png"
+        "img": "https://keithspeakingacademy.com/wp-content/uploads/elementor/thumbs/Prepare-IELTS-Speaking-oybd9ltmm48po38iws3cf12zlfqxp7w0gps31200i0.png",
+        "price": "99 $"
     }
 ]

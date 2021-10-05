@@ -1,0 +1,51 @@
+[
+    {
+        "id": 105,
+        "name": "VOCABULARY TEST",
+        "description": "A vocabulary is a set of familiar words within a person's language. A vocabulary, usually developed with age, serves as a useful and fundamental tool for communication and acquiring knowledge.",
+        "img": "https://nathalielanguages.com/wp-content/uploads/2019/11/Nathalie-languages-blog-learning-english-vocabulary-1030x601.jpg",
+        "price": "11 $"
+    },
+    {
+        "id": 106,
+        "name": "PHONE CALL LISTENING TEST",
+        "description": "A telephone call is a connection over a telephone network between the called party and the calling party.In the exam you need to hear call conversation and answer question.",
+        "img": "https://i.pcmag.com/imagery/lineups/01xeNiuuRd72fStqz3Yzmr6-1.1569492783.fit_lim.size_768x432.jpg",
+        "price": "7 $"
+    },
+    {
+        "id": 107,
+        "name": "PARAPHRASING GUIDE",
+        "description": "A paraphrase is a restatement of the meaning of a text or passage using other words. The term itself is derived via Latin paraphrasis from Greek paráfrasis. The act of paraphrasing is also called paraphrasis.",
+        "img": "https://7esl.com/wp-content/uploads/2020/05/Paraphrase.jpg",
+        "price": "13 $"
+    },
+    {
+        "id": 108,
+        "name": "WRITING I & II SPECIAL GUIDE",
+        "description": "The writing component of the IELTS exam is designed to assess how you write a response appropriately, organise ideas and use a range of vocabulary and grammar accurately.",
+        "img": "https://ieltspracticeonline.com/wp-content/uploads/2019/12/ebook-simon-ielts-writing-task-1-task-2-band-9.png",
+        "price": "15 $"
+    },
+    {
+        "id": 109,
+        "name": "SUMMARY GUIDE",
+        "description": "A summary begins with an introductory sentence that states the text's title, author and main point of the text as you see it. A summary is written in your own words. A summary contains only the ideas of the original text.",
+        "img": "https://dailstrug.files.wordpress.com/2019/02/summary.jpg?w=529",
+        "price": "9 $"
+    },
+    {
+        "id": 110,
+        "name": "BLANKS and TABLE PRO",
+        "description": "IELTS exam has fill in the blanks and table complete part. Every solution, success or revolution starts with an idea. Inspired by the world around us, by reusing existing materials and molding them into new combinations.",
+        "img": "https://i.pinimg.com/736x/43/98/e1/4398e13367dfb27cd7fc893488abc46c.jpg",
+        "price": "5 $"
+    },
+    {
+        "id": 111,
+        "name": "EXAM SPECIAL TIPS",
+        "description": "Make a study schedule that fits your way of studying and do not leave anything for the last minute. While some students do seem to thrive on last-minute studying, often this way of partial studying is not the best approach for exam preparation. Write down how many exams you have, how many pages you have to learn, and the days you have left. Afterwards, organize your study habits accordingly.",
+        "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201801/exam_preparation_tips.jpeg?NWBpblAvmsrCqsZ111w0VmVxTSMTnBrQ&size=770:433",
+        "price": "12 $"
+    }
+]

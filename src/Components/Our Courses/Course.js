@@ -1,12 +1,11 @@
 import React from 'react';
-import './Body.css'
 
-const Body = (props) => {
+const Course = (props) => {
+
     // By Destructuring
-    const { id, name, img, description, price } = props.tests;
 
+    const { id, name, img, description, price } = props.courses;
     return (
-
         <div className="col">
             <div className="card shadow-lg">
                 <img className="body-img" src={img} alt="img" />
@@ -19,4 +18,4 @@ const Body = (props) => {
     );
 };
 
-export default Body;
+export default Course;

@@ -1,3 +1,8 @@
 .logo{
     height: 200px;
+    margin:10px ;
+}
+
+.service:hover{
+    background-color: aquamarine;
 }

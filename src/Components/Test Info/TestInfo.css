@@ -1,0 +1,14 @@
+.scnd-img{
+    height: 175px;
+}
+
+.third-img{
+    height: 175px;
+    width: 300px;
+}
+
+.registration:hover{
+    background-color: blueviolet;
+    color: antiquewhite;
+    padding: 5px;
+}

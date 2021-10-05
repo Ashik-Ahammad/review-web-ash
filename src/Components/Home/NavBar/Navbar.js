@@ -11,9 +11,11 @@ const Navbar = () => {
     return (
         <div className="nav-bar">
             <NavLink className="nav-style" activeStyle={activeStyle} to="/home">HOME</NavLink>
-            <NavLink className="nav-style" activeStyle={activeStyle} to="/ourcourses">OUR COURSES</NavLink>
+            <NavLink className="nav-style" activeStyle={activeStyle} to="/ourcourses">FIND A COURSE</NavLink>
             <NavLink className="nav-style" activeStyle={activeStyle} to="/testinfo">TEST INFO</NavLink>
             <NavLink className="nav-style" activeStyle={activeStyle} to="/aboutus">ABOUT US</NavLink>
+
+            {/* NavLink Used Here */}
         </div>
     );
 };
